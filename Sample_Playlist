@@ -1,0 +1,41 @@
+[{"service":"webradio","uri":"http://mp3channels.webradio.antenne.de/antenne","title":"Antenne Bayern","albumart":"https://cdn-profiles.tunein.com/a38542/images/logoq.png"},
+{"service":"webradio","uri":"https://stream.rockantenne.de/rockantenne/stream/mp3","title":"ROCKANTENNE","albumart":"https://cdn-profiles.tunein.com/s25217/images/logoq.jpg?t=152942"},
+{"service":"webradio","uri":"https://stream.rockantenne.de/live-rock/stream/mp3","title":"Rockantenne Live Rock","albumart":"https://www.radio.de/images/broadcasts/aa/90/127921/1/c300.png"},
+{"service":"webradio","uri":"https://stream.rockantenne.de/blues-rock/stream/mp3","title":"Rockantenne Blues Rock","albumart":"https://www.radio.de/images/broadcasts/03/d8/129371/1/c300.png"},
+{"service":"webradio","uri":"https://stream.rockantenne.de/rockandroll/stream/mp3","title":"Rockantenne Rock 'n' Roll","albumart":"https://www.radio.de/images/broadcasts/11/ac/107473/2/c300.png"},
+
+
+{"service":"webradio","uri":"http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3","title":"MDR Sachsen","albumart":"https://cdn-profiles.tunein.com/s1346/images/logoq.jpg?t=1"},
+{"service":"webradio","uri":"http://avw.mdr.de/streams/284320-0_mp3_high.m3u","title":"MDR Jump","albumart":"https://cdn-profiles.tunein.com/s6634/images/logoq.jpg?t=1"},
+{"service":"webradio","uri":"https://dg-mdr-https-fra-dtag-cdn.sslcast.addradio.de/mdr/jump/inthemix/mp3/128/stream.mp3","title":"MDR Jump In The Mix","albumart":"https://cdn-profiles.tunein.com/s183331/images/logoq.jpg?t=1"},
+{"service":"webradio","uri":"http://mdr-284321-1.cast.mdr.de/mdr/284321/1/mp3/high/stream.mp3","title":"MDR Jump Rock","albumart":"https://cdn-profiles.tunein.com/s105934/images/logoq.jpg?t=1"},
+
+{"service":"webradio","uri":"http://streams.radiobob.de/bob-live/mp3-192/streams.radiobob.de/","title":"RADIO BOB! BOBs Livestream","albumart":"https://cdn-profiles.tunein.com/s96189/images/logoq.png"},
+{"service":"webradio","uri":"http://streams.radiobob.de/bob-acdc/mp3-192/streams.radiobob.de/","title":"RADIO BOB! BOBs AC/DC Collection","albumart":"https://cdn-profiles.tunein.com/s256712/images/logoq.png?t=153667"},
+{"service":"webradio","uri":"http://streams.radiobob.de/bob-bestofrock/mp3-192/streams.radiobob.de/","title":"RADIO BOB! BOBs Best of Rock","albumart":"https://cdn-profiles.tunein.com/s267605/images/logoq.png?t=153667"},
+{"service":"webradio","uri":"http://streams.radiobob.de/bob-kuschelrock/mp3-192/streams.radiobob.de/","title":"RADIO BOB! BOBs Kuschelrock","albumart":"https://cdn-profiles.tunein.com/s267615/images/logoq.png?t=153668"},
+{"service":"webradio","uri":"http://streams.radiobob.de/bob-rockhits/mp3-192/streams.radiobob.de/","title":"RADIO BOB! BOBs Rock Hits","albumart":"https://img.dirble.com/station/37657/259f71bd-3e63-4b6d-8102-6bc9b22d24c1.jpg"},
+{"service":"webradio","uri":"http://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/","title":"RADIO BOB! BOBs Mittelalter Rock","albumart":"https://cdn-profiles.tunein.com/s306502/images/logoq.png?t=1"},
+{"service":"webradio","uri":"http://bob.hoerradar.de/radiobob-country-mp3-hq","title":"RADIO BOB - Country","albumart":"https://cdn-profiles.tunein.com/s309776/images/logoq.jpg"},
+{"service":"webradio","uri":"http://bob.hoerradar.de/radiobob-southernrock-mp3-hq","title":"RADIO BOB! Southern Rock","albumart":"https://www.radio.de/images/broadcasts/ac/37/115635/1/c300.png"},
+{"service":"webradio","uri":"https://bob.hoerradar.de/radiobob-blues-mp3-hq","title":"RADIO BOB! Blues","albumart":"https://www.radio.de/images/broadcasts/a6/8b/133047/4/c300.png"},
+
+
+{"service":"webradio","uri":"https://rsa.hoerradar.de/rsasachsen-country-mp3-hq","title":"R.SA Country-Radio","albumart":"http://cdn-profiles.tunein.com/s306587/images/logoq.png"},
+
+{"service":"webradio","uri":"http://streaming.radioerzgebirge.de/radio-erzgebirge_simulcast_192k_mp3","title":"Radio Erzgebirge","albumart":"http://cdn-radiotime-logos.tunein.com/s84591q.png"},
+{"service":"webradio","uri":"http://streaming.radioerzgebirge.de/radio-erzgebirge2_simulcast_192k_mp3","title":"Radio Erzgebirge 2","albumart":"https://webradio.radioerzgebirge.de/local/FB_Zwei_300x300.png"},
+{"service":"webradio","uri":"http://streaming.radioerzgebirge.de/radio-erzgebirge_80er_192k_mp3","title":"Radio Erzgebirge 80er","albumart":"https://webradio.radioerzgebirge.de/local/FB_80er_300x300.png"},
+{"service":"webradio","uri":"http://streaming.radioerzgebirge.de/radio-erzgebirge_90er_192k_mp3","title":"Radio Erzgebirge 90er","albumart":"http://cdn-radiotime-logos.tunein.com/s294737q.png"},
+{"service":"webradio","uri":"http://streaming.radioerzgebirge.de/radio-erzgebirge_chillout_192k_mp3","title":"Radio Erzgebirge Chillout","albumart":"https://webradio.radioerzgebirge.de/local/FB_Chillout_300x300.png"},
+
+{"service":"webradio","uri":"http://streams.radiopsr.de/psr-live/mp3-192/mediaplayer","title":"Radio PSR","albumart":"https://cdn-radiotime-logos.tunein.com/s6649q.png"},
+{"service":"webradio","uri":"http://streams.radiopsr.de/psr-partymix/mp3-192/mediaplayer","title":"Radio PSR Partymix","albumart":"https://cdn-radiotime-logos.tunein.com/s231560q.png"},
+{"service":"webradio","uri":"http://streams.radiopsr.de/psr-chartbreaker/mp3-192/mediaplayer","title":"Radio PSR Chartbreaker","albumart":"https://cdn-radiotime-logos.tunein.com/s231561q.png"},
+
+{"service":"webradio","uri":"http://streaming.hitradio-rtl.de/hitradio-rtl_simulcast__chemnitz_192k_mp3","title":"Hitradio RTL","albumart":"https://cdn-radiotime-logos.tunein.com/s96270q.png"},
+
+{"service":"webradio","uri":"https://server33418.streamplus.de/stream/1/","title":"Radio U1 Tirol","albumart":"http://cdn-radiotime-logos.tunein.com/s10839q.png"},
+
+{"service":"webradio","uri":"https://miriquidi.stream.laut.fm/miriquidi?pl=m3u&t302=2020-12-28_19-43-40&uuid=f9d6fe50-d3cc-40d5-b638-962f144a1bb4","title":"Radio Miri Quidi","albumart":"https://assets.laut.fm/e08036e40c10c9532d95db80869d76bd?t.png"}
+]
